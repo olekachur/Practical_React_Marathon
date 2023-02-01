@@ -1,0 +1,14 @@
+{
+  "name": "babel_project",
+  "version": "1.0.0",
+  "description": "babel project",
+  "author": "IT Academy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.75.0"
+  }
+}

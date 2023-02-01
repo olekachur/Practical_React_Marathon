@@ -1,0 +1,27 @@
+nav {
+    flex: auto;
+    background-color: lightgray;
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+  
+   li {
+    display: inline;
+    
+  } 
+  
+  li a {
+   
+    padding: 2px;
+    
+  }
+  
+  li a:hover {
+   color: #61dafb;
+   background-color: #111;
+  }
